@@ -10,22 +10,22 @@ Clone repository to your local machine (use 'git clone https://github.com/viceci
 
 Simply open HTML file of each project on your browser.
 
-## Day1 project
+## Day 1 project
 
 Basic slider with smooth animations.
 
-## Day2 project
+## Day 2 project
 
 Drag and drop feature.
 
-## Day3 project
+## Day 3 project
 
 Variation of slider from the first project.
 
-## Day4 project
+## Day 4 project
 
 Snake-like animations with pixel cubes on a canvas.  
 
-## Day5 project
+## Day 5 project
 
 Aim-training mini-game.
